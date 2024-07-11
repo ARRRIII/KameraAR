@@ -1,8 +1,8 @@
-# Kamera-AR-Daka-Heldian-2113025020
+# Kamera-AR-Ari-William-2113025020
 
 Penambahan Kamera AR
-Daka Heldian
-NPM 2113025020
+Ari William
+NPM 2113025030
 Mata Kuliah Augmented Reality
 
 Source Code:
@@ -11,7 +11,7 @@ Source Code:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kamera AR - Daka Heldian</title>
+    <title>Kamera AR - Ari William</title>
     <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/ar.js"></script> 
     <script>
